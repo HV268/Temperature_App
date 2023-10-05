@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temp_App</string>
+    <string name="value">Enter the value in Celsius</string>
+    <string name="celcius">The value in Celsius</string>
+</resources>
